@@ -1,6 +1,6 @@
 //ボタンをオスと、ブロック内のプログラムを実行する。
 $("btn1").on("click", function() {
-let dat = new Date();
+let date = new Date();
 let year = data.getFullYear();
 let month = date.getMonth() + 1;
 let day = date.getDate();
