@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+  background-color: #bc8f8f;
+}
+
+h1 {
+  font-family: 'Pirata One', cursive;
+  font-size:  4rem;
+  color: navy;
+  background-color: #a52a2a;
+}
+
+p {
+
+}
