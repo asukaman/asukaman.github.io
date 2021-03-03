@@ -15,18 +15,26 @@ h1 {
 }
 
 p {
+<<<<<<< HEAD
   background-color: #bc8f8f;
   background-image: url(images/ddd.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   width 300px;
   height 150px;
+=======
+  font-size: 5rem;
+>>>>>>> be8f323e4cbde999d58e29e1c97ae89305e96282
 }
 
 /* 必然的に社会と戦わないといけない*/
 
+<<<<<<< HEAD
 div {
   background-color: #bc8f8f;
+=======
+p{
+>>>>>>> be8f323e4cbde999d58e29e1c97ae89305e96282
 
   /*background: #bc8f8d url(images/image.jpg) no-repeat cover;*/
   width 500px;

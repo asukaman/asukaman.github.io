@@ -21,9 +21,12 @@ h2 {
 body {
   background-color: #fffee9;
   background-image: url(images/sekai.jpg);
+<<<<<<< HEAD
   background-repeat: no-repeat;
   background-size: cover;
 
+=======
+>>>>>>> be8f323e4cbde999d58e29e1c97ae89305e96282
 }
 
 h3 {
